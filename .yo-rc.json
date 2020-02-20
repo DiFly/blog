@@ -1,0 +1,43 @@
+{
+  "generator-jhipster": {
+    "promptValues": {
+      "packageName": "org.difly.jhipsterblog",
+      "nativeLanguage": "en"
+    },
+    "jhipsterVersion": "6.7.1",
+    "applicationType": "monolith",
+    "baseName": "blog",
+    "packageName": "org.difly.jhipsterblog",
+    "packageFolder": "org/difly/jhipsterblog",
+    "serverPort": "8080",
+    "authenticationType": "jwt",
+    "cacheProvider": "ehcache",
+    "enableHibernateCache": true,
+    "websocket": false,
+    "databaseType": "sql",
+    "devDatabaseType": "h2Disk",
+    "prodDatabaseType": "postgresql",
+    "searchEngine": false,
+    "messageBroker": false,
+    "serviceDiscoveryType": false,
+    "buildTool": "maven",
+    "enableSwaggerCodegen": false,
+    "jwtSecretKey": "OTA1MjFiNDY4NzNkMDdkN2I4OWQ5ZjRmOWIxMWQ0ZmI1ZjU5YmIyNmEwY2Q1NWQwZWE3ODlkYmFmN2JmZGQwN2IyYWM4ZjcwMDc2N2VhYWIwYWU5ZTliMGU3YmU0MzFkMGMwMDMwNmVlNTEzNmJkMGE2MzQ2YWZjZjVkMjVmYjY=",
+    "embeddableLaunchScript": false,
+    "useSass": true,
+    "clientPackageManager": "npm",
+    "clientFramework": "angularX",
+    "clientTheme": "none",
+    "clientThemeVariant": "",
+    "creationTimestamp": 1582212376027,
+    "testFrameworks": ["protractor"],
+    "jhiPrefix": "jhi",
+    "entitySuffix": "",
+    "dtoSuffix": "DTO",
+    "otherModules": [],
+    "enableTranslation": true,
+    "nativeLanguage": "en",
+    "languages": ["en", "ru", "ua"],
+    "blueprints": []
+  }
+}
