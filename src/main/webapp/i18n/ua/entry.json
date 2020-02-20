@@ -1,0 +1,26 @@
+{
+  "blogApp": {
+    "entry": {
+      "home": {
+        "title": "Entries",
+        "createLabel": "Створити новий Entry",
+        "createOrEditLabel": "Створити чи редагувати Entry",
+        "notFound": "No Entries found"
+      },
+      "created": "Новий Entry створений з ідентифікатором {{ param }}",
+      "updated": "Entry оновлений з ідентифікатором {{ param }}",
+      "deleted": "Entry видалений з ідентифікатором {{ param }}",
+      "delete": {
+        "question": "Ви впевнені, що хочете видалити Entry {{ id }}?"
+      },
+      "detail": {
+        "title": "Entry"
+      },
+      "title": "Title",
+      "content": "Content",
+      "date": "Date",
+      "blog": "Blog",
+      "tag": "Tag"
+    }
+  }
+}

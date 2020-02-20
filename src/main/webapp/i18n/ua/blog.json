@@ -1,0 +1,24 @@
+{
+  "blogApp": {
+    "blog": {
+      "home": {
+        "title": "Blogs",
+        "createLabel": "Створити новий Blog",
+        "createOrEditLabel": "Створити чи редагувати Blog",
+        "notFound": "No Blogs found"
+      },
+      "created": "Новий Blog створений з ідентифікатором {{ param }}",
+      "updated": "Blog оновлений з ідентифікатором {{ param }}",
+      "deleted": "Blog видалений з ідентифікатором {{ param }}",
+      "delete": {
+        "question": "Ви впевнені, що хочете видалити Blog {{ id }}?"
+      },
+      "detail": {
+        "title": "Blog"
+      },
+      "name": "Name",
+      "handle": "Handle",
+      "user": "User"
+    }
+  }
+}
